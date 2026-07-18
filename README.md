@@ -1,4 +1,4 @@
 # prajakta-demo
 This is my first git repository.
 <br>
-Author - Prajakta Thawari
+Author - Prajakta t
